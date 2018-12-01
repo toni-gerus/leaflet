@@ -1,0 +1,39 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+}
+* {
+    box-sizing: inherit;
+}
+
+body {
+  font-family: 'Lato';
+  color: #fff;
+  background-color: #26ba62 !important;
+}
+
+
+h1 {
+  font-family: 'Catamaran';
+  font-weight: 800 !important;
+  text-shadow: #007931 1px 1px 1px;
+
+}
+
+.map {
+  	min-width: 200px;
+  	max-width: 600px;
+  	margin: 0 auto;
+}
+
+#mapid {
+  height: 400px;
+  width: 100%;
+  margin-top: 3rem;
+  border: 1px solid #fff;
+}
+.container {
+  	min-width: 200px;
+  	max-width: 600px;
+  	margin: 0 auto;
+}
